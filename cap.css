@@ -1,0 +1,11 @@
+body{
+  background-color: lavender;
+}
+
+h1, h3{
+  font-family: Georgia, serif;
+}
+
+p, li{
+  font-family: "Palatino Linotype", "Book Antiqua", "Palatino", serif;
+}

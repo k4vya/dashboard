@@ -1,20 +1,24 @@
-div.container{
+div.container {
   background-color: lavender;
 }
 
-div.card{
+div.card {
   height: 25rem;
 }
 
-#carouselExampleIndicators{
+#carouselExampleIndicators {
   size: max-auto;
 }
 
-a.navbar-brand{
-  background-image: https://www.petmd.com/sites/default/files/Dogs-and-vomiting.jpg;
-  border-radius: 50%;
+body {
+  background-color: lavender;
 }
 
-body{
-  background-color: lavender;
+div.song{
+  text-align:center;
+}
+
+.tr {
+width:200px;
+padding:4px;
 }
